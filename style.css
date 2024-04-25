@@ -1,0 +1,36 @@
+header {background-color: red;
+padding: 20px;
+color: white;
+text-align:center
+}
+
+.image-home img{
+    width: auto;
+    height: 605px;
+}
+.navbar{
+    text-align: center;
+
+}
+.navbar a{
+    text-decoration: none;
+}
+.navbar img{
+    width: 50px;
+}
+table{
+    text-align: center;
+    width:900px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+table, th, td{
+    border: 1px solid;
+}
+tr:nth-child(even) {
+    background-color: #eed6d6;
+  }
+
+  .menu{
+    text-align: center;
+  }
